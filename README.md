@@ -4,7 +4,7 @@
 
 1. Clone Repo
 
-``` git clone https://github.com/hossamyehia/PMS.git ```
+``` https://github.com/hanan-abdelmaseh/PMS-Project.git```
 
 2. install Dependencies
 
